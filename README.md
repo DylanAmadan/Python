@@ -9,11 +9,17 @@ Django Projects
 
 **Machine Learning Projects**
 [Language Model]: Trained a simple language model using Python and TensorFlow on a dataset of text in the target language to generate new sentences in that language.
+
 [Vocabulary Builder]: Developed a tool that generates new words and their definitions using GPT-2 or GPT-3 based on the context and usage of the word.
+
 [Translation Tool]: Built a translation tool that translates text from one language to another using a machine translation library or a custom-built translation model.
+
 [Language Learning Game]: Created a fun and interactive game that helps language learners practice their vocabulary, grammar, and pronunciation skills using GPT-2 or GPT-3 to generate questions and answers for the game.
+
 [Language Learning Chatbot]: Developed a chatbot that helps language learners practice their conversational skills by using GPT-2 or GPT-3 to generate responses to the learner's messages based on the context of the conversation.
+
 [Language Learning App]: Built a mobile app that provides language learners with resources and tools to improve their skills using GPT-2 or GPT-3 to generate content for the app, such as daily vocabulary exercises or grammar tips.
+
 [Language Learning Assistant]: Created a language learning assistant that helps learners practice their skills, answer their questions, and provide personalized feedback. Used GPT-2 or GPT-3 to generate responses that are accurate and natural-sounding.
 
 
