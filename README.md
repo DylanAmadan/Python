@@ -4,9 +4,6 @@ Python Personal Projects
 Personal Python Projects
 This repository contains a collection of personal projects I've created as part of my journey to learn Python. My interests include web development with Django and machine learning.
 
-Project Descriptions
-Django Projects
-
 **Machine Learning Projects**
 [Language Model]: Trained a simple language model using Python and TensorFlow on a dataset of text in the target language to generate new sentences in that language.
 
